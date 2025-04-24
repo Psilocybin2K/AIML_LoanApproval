@@ -1,5 +1,7 @@
 ﻿# AIML Loan Approval System 🏦
 
+ A machine learning plugin for Semantic Kernel.
+
 ## Table of Contents
 - [Overview](#overview)
 - [Key Features](#-key-features)
@@ -14,7 +16,7 @@
 
 ## Overview
 
-The AIML Loan Approval System is an intelligent decision support tool that combines the power of ML.NET with the natural language capabilities of Semantic Kernel to revolutionize loan approval workflows.
+The AIML Loan Approval System is an intelligent decision support tool that combines the power of ML.NET (Machine Learning) with the natural language capabilities of Semantic Kernel (GPT) to revolutionize loan approval workflows.
 
 > *"Empowering financial institutions with AI-driven decision making."*
 
