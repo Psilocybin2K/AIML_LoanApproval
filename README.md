@@ -59,7 +59,7 @@ The system supports both command-based and natural language interactions:
 > /CreateLightGbmModel
 > /Predict 720 85000 250000 30
 > Update FICO as 780
-> Update Loan Amount to 120K
+> Predict loan approval with a FICO of 600
 ```
 
 ## 🏢 Business Benefits
