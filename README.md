@@ -12,7 +12,6 @@
 - [Getting Started](#-getting-started)
 - [Example Usage](#-example-usage)
 - [Anti-Bias Measures](#️-anti-bias-measures)
-- [Next Steps](#-next-steps)
 
 ## Overview
 
