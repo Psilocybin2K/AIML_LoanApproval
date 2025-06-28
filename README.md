@@ -108,4 +108,4 @@ We take the challenge of algorithmic bias seriously. Our approach to responsible
 
 *Developed with ❤️ using Microsoft ML.NET and Semantic Kernel*
 
-Created by Montray Davis | Mortgage Financial Services Innovation
+Created by Montray Davis | Financial Services Innovation
